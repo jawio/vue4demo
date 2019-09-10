@@ -1,5 +1,4 @@
 # vue4demo
-<<<<<<< HEAD
 
 > have a try just play
 
@@ -20,6 +19,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-play
->>>>>>> 50e56b0c2df9e71054a04c37f51ecd29ac04df7a
+
